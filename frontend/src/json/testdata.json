@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Amina of the Lamp",
+      "categories": ["Romance", "Fantasy", "Time Travel"],
+      "cover": "https://static.manta.net/2021-09-03/QH/QHeCZyFUWdUmR3rR.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Disobey the Duke if You Dare",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-09-15/gR/gRJcLGYxqanviLje.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Call Me Master",
+      "categories": ["Romance", "Reincarnation", "Master-Servant"],
+      "cover": "https://static.manta.net/2023-10-31/85/85Pjrq4eZTmqVI7r.jpg"
+    },
+    {
+      "id": 4,
+      "title": "I've Become a True Villainess",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-11-24/GU/GUk5s2dGtUSBMrmz.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Betrayal of Dignity",
+      "categories": ["Romance", "Reincarnation", "Marriage"],
+      "cover": "https://static.manta.net/2023-09-12/Et/EtzqTmP7cjdV7go5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Redemption of Earl Nottingham",
+      "categories": ["Fantasy","Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-11-21/Iw/Iw0slKcWaNNSNq9B.jpg"
+    },
+    {
+      "id": 7,
+      "title": "When Fate Find Us",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-10-12/Zq/ZqvjpxenrHT3VrF2.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Devil and His Sacrifice",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-05-09/hF/hFw9CXTzWHPaoWWr.jpg"
+    },
+    {
+      "id": 9,
+      "title": "My Red String of Fate",
+      "categories": ["Romance", "Reincarnation", "Love Triangle"],
+      "cover": "https://static.manta.net/2022-02-18/E7/E7HLPDLvbsoFg4rS.jpg"
+    },
+    {
+      "id": 10,
+      "title": "I Raised a Black Dragon",
+      "categories": ["Romance", "Dragon", "Fantasy", "Bad Boy"],
+      "cover": "https://static.manta.net/2022-02-18/Ct/Ct3kAhDXnMmE3F4V.jpg"
+    }
+  ]
+  

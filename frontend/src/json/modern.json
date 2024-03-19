@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "This Contract Romance Must Not Turn Real!",
+        "status": "Completed",
+        "views": 20,
+        "description": "This Contract Romance Must Not Turn Real!: After being cheated on by her ex-boyfriend, the rich young miss Xia Zhenzhen was dragged into a marriage meeting by her dear mom. In order to avoid that, she entered a contract romance with a handsome waiter from a bar under her sister’s encouragement! As per their contract, his time for her money, they would be lovey-dovey in the public and strangers in private. They agreed that this contract romance must not turn real, but wait, why is this guy looking at me so angrily?!",
+        "genres": ["Romance", "Modern Romance", "Contract"],
+        "cover": "https://i0.hdslb.com/bfs/comic-static/1667b9f5fa18c582be188582bbaa6ab39def2580.png@300w.webp",
+        "price": 360,
+        "author": "Wan Xu He Nian"
+    },
+    {
+        "id": 2,
+        "title": "Love Me As I Do",
+        "description": "Contracted Love = contract first and love later? No No No, it’s contract first, nights together, babies following, and LOVE ACTUALLY. Bossy President + Icy CEO + Possessive Male Lead, does this ring a bell? Let us present you with the “FALLING IN LOVE WITH PRESIDENT” starter pack!",
+        "status": "Ongoing",
+        "views": 20,
+        "genres": ["Romance", "Modern Romance", "Contract"],
+        "cover": "https://cn-e-pic.mangatoon.mobi/cartoon-posters/6827cbf.webp",
+        "price": 360,
+        "author": "Wan Xu He Nian"
+    },
+    {
+        "id": 3,
+        "title": "Flash Marriage",
+        "description": "Contracted Love = contract first and love later? No No No, it’s contract first, nights together, babies following, and LOVE ACTUALLY. Bossy President + Icy CEO + Possessive Male Lead, does this ring a bell? Let us present you with the “FALLING IN LOVE WITH PRESIDENT” starter pack!",
+        "status": "Ongoing",
+        "views": 20,
+        "genres": ["Romance", "Modern Romance", "Contract"],
+        "cover": "https://cn-e-pic.mangatoon.mobi/cartoon-posters/6818590-posterend4.webp",
+        "price": 360,
+        "author": "Wan Xu He Nian"
+    }
+]

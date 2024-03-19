@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "title": "The Flower of Veneration",
+      "categories": ["Romance", "Fantasy", "Secret", "Royalty"],
+      "description": "Cecylia Saryan, liege to the order of Hearthtread and heir to the Dukedom after her father's sudden death, discovers a young boy hidden in his legacy — the Crown Prince Ethan, thought to have drowned 5 years ago. Will Cecylia be able to keep her House intact while helping Ethan reclaim his throne?",
+      "cover": "https://static.manta.net/2023-03-03/K2/K27217Zb9XMnnU7s.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Disobey the Duke if You Dare",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2024-01-05/WV/WVTsNmbdWt3xYnWR.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Call Me Master",
+      "categories": ["Romance", "Reincarnation", "Master-Servant"],
+      "cover": "https://static.manta.net/2024-01-05/zv/zvw43QnZo4ZHtmaF.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Under the Oak Tree",
+      "categories": ["Romance", "Fantasy", "Marriage"],
+      "cover": "https://static.manta.net/2024-01-04/ZG/ZGP1g3iMwTDwsHha.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Last Straw",
+      "categories": ["Romance", "Reincarnation", "Marriage"],
+      "cover": "https://static.manta.net/2023-10-26/DP/DPEwCBhspFlZ129I.jpg"
+    },
+    {
+      "id": 6,
+      "title": "My Sweet Enemy, Thy Name is Husband",
+      "categories": ["Fantasy","Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2024-01-05/Gi/GiN8pMnzFGIXqpmR.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Adeline's Darkest Night",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-01-05/KW/KWpsGnXj2e6zDdla.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Devil and His Sacrifice",
+      "categories": ["Romance", "Reincarnation"],
+      "cover": "https://static.manta.net/2023-05-09/hF/hFw9CXTzWHPaoWWr.jpg"
+    },
+    {
+      "id": 9,
+      "title": "My Red String of Fate",
+      "categories": ["Romance", "Reincarnation", "Love Triangle"],
+      "cover": "https://static.manta.net/2022-02-18/E7/E7HLPDLvbsoFg4rS.jpg"
+    },
+    {
+      "id": 10,
+      "title": "I Raised a Black Dragon",
+      "categories": ["Romance", "Dragon", "Fantasy", "Bad Boy"],
+      "cover": "https://static.manta.net/2022-02-18/Ct/Ct3kAhDXnMmE3F4V.jpg"
+    }
+  ]
+  

@@ -55,7 +55,7 @@ export const LogIn = () => {
     <section className="w-full h-full flex justify-center items-center md:px-0 px-5 font-dmsans text-base text-secondary">
       <form
         onSubmit={handleSignUp}
-        className="font-medium border px-6 py-8 rounded-2xl space-y-2 w-full md:w-96"
+        className="font-medium border border-foreground/10 px-6 py-8 rounded-2xl space-y-2 w-full md:w-96"
       >
         <div>
           <h1 className="text-xl font-medium mb-1">
@@ -64,14 +64,14 @@ export const LogIn = () => {
           <p className="text-sm text-zinc-500">Choose your preffered method</p>
         </div>
         <div className="flex justify-between gap-2">
-          <Button color="secondary" startContent={<FaGoogle />} fullWidth>Google</Button>
-          <Button color="secondary" startContent={<FaGithub />} fullWidth>GitHub</Button>
-          <Button color="secondary" startContent={<FaDiscord />} fullWidth>Discord</Button>
+          <Button className="bg-foreground text-background" startContent={<FaGoogle />} fullWidth>Google</Button>
+          <Button className="bg-foreground text-background" startContent={<FaGithub />} fullWidth>GitHub</Button>
+          <Button className="bg-foreground text-background" startContent={<FaDiscord />} fullWidth>Discord</Button>
         </div>
         <div className="flex justify-between items-center gap-2">
-          <div className="bg-zinc-200 w-full h-[1px]"></div>
+          <div className="bg-zinc-200/10 w-full h-[1px]"></div>
           <span className="text-zinc-500 uppercase text-xs">or</span>
-          <div className="bg-zinc-200 w-full h-[1px]"></div>
+          <div className="bg-zinc-200/10 w-full h-[1px]"></div>
         </div>
         <div className="space-y-8">
           <Input
@@ -105,7 +105,7 @@ export const LogIn = () => {
           />
         </div>
         <Button color="primary" type="submit" fullWidth isLoading={isLoading}>
-          Sign Up
+          Log In
         </Button>
       </form>
     </section>

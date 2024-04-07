@@ -1,9 +1,8 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
+import { Link } from "@tanstack/react-router";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, A11y, Autoplay } from "swiper/modules";
-
 import { CarouselInterface } from "@/types/carousel.type";
 
 import "swiper/css";
@@ -53,7 +52,7 @@ export const Carousel: React.FC<CarouselProps> = ({ data }) => {
                     className="overflow-hidden w-full relative mx-auto"
                 >
                     {data.slice(0, 8).map((carousel, index) => (
-                        <SwiperSlide key={index} className="w-[30rem] md:h-[30rem] h-[24rem] relative">
+                        <SwiperSlide key={index} className="w-[30rem] md:!h-[30rem] h-[24rem] relative">
                             <Link to="/" className="flex w-full h-full relative">
                                 <img
                                     src={carousel.cover}

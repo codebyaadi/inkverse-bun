@@ -1,5 +1,4 @@
-import { LogIn, SignUp } from "@/components/forms";
-import { Routes, Route, Link } from "react-router-dom";
+import { Link, Outlet } from "@tanstack/react-router";
 
 export const AuthPage = () => {
   return (
@@ -14,10 +13,7 @@ export const AuthPage = () => {
         </div>
       </div>
       <div id="auth-container" className="w-full h-full flex justify-center items-center">
-        <Routes>
-          <Route path="/signup" element={<SignUp />} />
-          <Route path="/login" element={<LogIn />} />
-        </Routes>
+        <Outlet />
       </div>
     </main>
   )
